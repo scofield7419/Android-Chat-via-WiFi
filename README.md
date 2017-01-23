@@ -1,6 +1,6 @@
 # Android Chat via WiFi
 ***
-####基于Android的精简版WiFi聊天室.
+###基于Android的精简版WiFi聊天室.
 ***
 
     ·需要两个Android设备分别安装本APP.
